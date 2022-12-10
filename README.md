@@ -32,11 +32,19 @@ This way information stay active and accesable for longer time.
   </tr>
 </table>
 
-2- After Creating the card you can relate them to other cards using the attachment icon on top right corner of the screen. you can also unlink a related card by long pressing on the card.
+2- After Creating the card and saving them, you can select them from the list of cards and make them related to other cards using the attachment icon on top right corner of the screen.
 
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/5299974/206841500-f1f1fbd3-614a-437d-b29c-1b36be623d94.jpg?raw=true" alt="Dash light" width="220"/></td>
+  </tr>
+</table>
+
+you can also unlink a related card by long pressing on the related card.
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/5299974/206849947-3198d935-0e46-468f-93a3-9d45cf1fe988.jpg?raw=true" alt="Dash light" width="220"/></td>
   </tr>
 </table>
 
