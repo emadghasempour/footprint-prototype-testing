@@ -6,20 +6,22 @@ The goal of Footprint project is to make information from different sources, **O
 
 ## Problem
 
-Losing a note in the long list of other notes, or forgetting about a bookmarked page in the pile of our other bookmarks after two weeks are not unfamiliar stories. 
+Losing a note in the long list of other notes, or forgetting about a bookmarked page in the pile of our other bookmarks after two weeks are not unfamiliar stories.  with this issue some valuable information will simply be lost and forgotten after some time, in a way that it wasn't exist.
 
 ## Solution
 
-Footprints offers a solution to the problem above by making informations related. this way you can find that piece of information by reaching to any of its relations too.  or by doing a search about something you can have access to all the related items too, that might get related month ago and forgotten from the surface. 
+**Footprints offers a solution for the problem above by making informations related**. this way you can find that piece of information by reaching to any of its relations too.  Or by doing a search about something you can have access to all the related items as well, that might get related month ago and even if you already forgot it. 
+
+it will work like a thread that you start from one end and follow the way and reach to another end of the thread. 
 
 Footprint basincally: 
 
- 1. Unify diffent sources of information in one place (Notes, Bookmarked pages, Voices and etc) Using mobile app and browser extension.
+ 1. Unify diffent sources of information in one place (Notes, Bookmarked pages, Voices and etc) Using mobile app, browser extension and etc.
  2. Makes it easier to make informations related to eachother.
 
 This way information stay active and accesable for longer time.
 
-## how to use
+## How to use
 1- Create or import information into Footprint app
 
 **Note**: to import information from other apps  you can share them (Text for now) with Footprint app.
