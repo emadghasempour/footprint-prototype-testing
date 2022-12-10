@@ -14,7 +14,7 @@ Footprints offers a solution to the problem above by making informations related
 
 Footprint basincally: 
 
- 1. Unify diffent sources of information in one place (Notes, Bookmarked pages, Voices and etc.
+ 1. Unify diffent sources of information in one place (Notes, Bookmarked pages, Voices and etc) Using mobile app and browser extension.
  2. Makes it easier to make informations related to eachother.
 
 This way information stay active and accesable for longer time.
@@ -22,7 +22,7 @@ This way information stay active and accesable for longer time.
 ## how to use
 1- Create or import information into Footprint app
 
-Note: to import information from other apps  you can share them (Text for now) with Footprint app.
+**Note**: to import information from other apps  you can share them (Text for now) with Footprint app.
 
 <table>
   <tr>
@@ -30,7 +30,7 @@ Note: to import information from other apps  you can share them (Text for now) w
   </tr>
 </table>
 
-2- After Creating the card you can relate them to other cards using the attachment icon on top right corner of the creen.
+2- After Creating the card you can relate them to other cards using the attachment icon on top right corner of the screen. you can also unlink a related card by long pressing on the card.
 
 <table>
   <tr>
@@ -38,4 +38,6 @@ Note: to import information from other apps  you can share them (Text for now) w
   </tr>
 </table>
 
-Thank you for your honest feedback in advance. Feel free to be cruel (but not too much😄)
+This is the first prototype of footprint app to see if the idea resolve the mentioned of losing track of informations and how it can be improved to offer a better solution . 
+
+Thank you for your time to test the app and honest feedback in advance. Feel free to be cruel (but not too much😄)
