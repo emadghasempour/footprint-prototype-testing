@@ -44,7 +44,7 @@ you can also unlink a related card by long pressing on the related card.
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/5299974/206849947-3198d935-0e46-468f-93a3-9d45cf1fe988.jpg?raw=true" alt="Dash light" width="220"/></td>
+    <td><img src="https://user-images.githubusercontent.com/5299974/206850606-79020239-5904-4535-af60-90f98e5e7980.jpg?raw=true" alt="Dash light" width="220"/></td>
   </tr>
 </table>
 
