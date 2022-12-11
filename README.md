@@ -6,7 +6,7 @@ The goal of Footprint project is to make information from different sources, **O
 
 ## Problem
 
-Losing a note in the long list of other notes, or forgetting about a bookmarked page in the pile of our other bookmarks after two weeks are not unfamiliar stories.  with this issue some valuable information will simply be lost and forgotten after some time, in a way that it wasn't exist.
+Losing a note in the long list of other notes, or forgetting about a bookmarked page in the pile of our other bookmarks after two weeks are not unfamiliar stories.  with this issue some valuable information will simply be lost and forgotten after some time, in a way that it doesn't exist.
 
 ## Solution
 
@@ -48,6 +48,6 @@ you can also unlink a related card by long pressing on the related card.
   </tr>
 </table>
 
-This is the first prototype of footprint app to see if the idea resolve the mentioned of losing track of informations and how it can be improved to offer a better solution . 
+This is the first prototype of footprint app. The goal is to see if the idea resolve the mentioned of losing track of informations and how it can be improved to offer a better solution. 
 
 Thank you for your time to test the app and honest feedback in advance. Feel free to be cruel (but not too much😄)
